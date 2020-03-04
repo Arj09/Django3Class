@@ -68,7 +68,7 @@ TEMPLATES = [
         },
     },
 ]
-
+#Hi
 WSGI_APPLICATION = 'prjdjango3.wsgi.application'
 
 
